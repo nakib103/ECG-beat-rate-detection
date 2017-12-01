@@ -1,2 +1,3 @@
-database    : MIT-BIH Arrythmia
-platform    : MATLAB
+Database    : MIT-BIH Arrythmia
+
+Platform    : MATLAB
